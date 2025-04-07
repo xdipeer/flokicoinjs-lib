@@ -56,7 +56,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitcoinjs/bitcoinjs-lib.git"
+    "url": "https://github.com/powchain/flokicoinjs-lib.git"
   },
   "files": [
     "src"
@@ -71,7 +71,7 @@
     "varuint-bitcoin": "^2.0.0"
   },
   "devDependencies": {
-    "bitcoinjs-lib": ".",
+    "flokicoinjs-lib": ".",
     "@eslint/eslintrc": "^3.1.0",
     "@eslint/js": "^9.9.1",
     "@types/bs58": "^4.0.0",

@@ -1,8 +1,5 @@
-<img src="./logo/logo.svg" alt="FlokicoinJS kawaii logo" width="50%" />
+<img src="./logo/logo.svg" alt="FlokicoinJS logo" width="50%" />
 
-(Logo by [@sawaratsuki1004](https://x.com/sawaratsuki1004))
-
-([LICENSE for the logo is on SAWARATSUKI Github repo](https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/README_EN.md))
 
 [![Github CI](https://github.com/powchain/flokicoinjs-lib/actions/workflows/main_ci.yml/badge.svg)](https://github.com/powchain/flokicoinjs-lib/actions/workflows/main_ci.yml) [![NPM](https://img.shields.io/npm/v/flokicoinjs-lib.svg)](https://www.npmjs.org/package/flokicoinjs-lib) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
