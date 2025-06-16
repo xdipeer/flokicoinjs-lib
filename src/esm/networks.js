@@ -5,11 +5,11 @@ export const bitcoin = {
   /**
    * The message prefix used for signing Bitcoin messages.
    */
-  messagePrefix: '\x18Bitcoin Signed Message:\n',
+  messagePrefix: '\x18Flokicoin Signed Message:\n',
   /**
    * The Bech32 prefix used for Bitcoin addresses.
    */
-  bech32: 'bc',
+  bech32: 'fc',
   /**
    * The BIP32 key prefixes for Bitcoin.
    */
@@ -26,11 +26,11 @@ export const bitcoin = {
   /**
    * The prefix for Bitcoin public key hashes.
    */
-  pubKeyHash: 0x00,
+  pubKeyHash: 0x23,
   /**
    * The prefix for Bitcoin script hashes.
    */
-  scriptHash: 0x05,
+  scriptHash: 0x5,
   /**
    * The prefix for Bitcoin Wallet Import Format (WIF) private keys.
    */
@@ -40,8 +40,8 @@ export const bitcoin = {
  * Represents the regtest network configuration.
  */
 export const regtest = {
-  messagePrefix: '\x18Bitcoin Signed Message:\n',
-  bech32: 'bcrt',
+  messagePrefix: '\x18Flokicoin Signed Message:\n',
+  bech32: 'fcrt',
   bip32: {
     public: 0x043587cf,
     private: 0x04358394,
@@ -54,8 +54,8 @@ export const regtest = {
  * Represents the testnet network configuration.
  */
 export const testnet = {
-  messagePrefix: '\x18Bitcoin Signed Message:\n',
-  bech32: 'tb',
+  messagePrefix: '\x18Flokicoin Signed Message:\n',
+  bech32: 'tf',
   bip32: {
     public: 0x043587cf,
     private: 0x04358394,
